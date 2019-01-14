@@ -1,0 +1,42 @@
+/* 
+    Author     : Mateusz Szymanski
+*/
+
+body{
+    background-color:lemonchiffon;
+}
+
+#get_page {
+    padding-left: 45%;
+    padding-top: 3%;      
+}
+
+#web_info {
+  display: none;
+  position: absolute;
+  overflow: auto;
+  padding-top: 3%;     
+}
+
+#main_content{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+    font-weight: bold;
+    border-width: 2px;
+    border-color:black;
+    border-style: solid;
+    background-color:bisque;
+}
+
+#linksList, #linksUnique, #securePage{
+    display: none;
+    
+}
+
+tr {
+    border-width: 2px;
+    border-color:black;
+    border-style: solid;
+}
