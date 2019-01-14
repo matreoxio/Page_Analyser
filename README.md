@@ -18,4 +18,4 @@ Functions:
 9. Was Google Analytics available on the page?      
 
 Future Improvements:</br>
-1.Add proper error handling
+1. Add proper error handling
