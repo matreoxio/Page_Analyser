@@ -17,5 +17,5 @@ Functions:
 8. Display SSL certificate information
 9. Was Google Analytics available on the page?      
 
-Future Improvements:
+Future Improvements:</br>
 1.Add proper error handling
