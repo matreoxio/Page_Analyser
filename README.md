@@ -1,6 +1,6 @@
 # Page_Analyser
 
-Web_Analyser
+<b>Web_Analyser</b>
 [Completed]
 
 This is a web application which allows users to retrive data about the target page.
